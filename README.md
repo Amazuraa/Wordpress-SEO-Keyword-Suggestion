@@ -3,5 +3,6 @@
 #### &nbsp; Install : 
 
 ```bash
-Dashboard > Plugins > Activate
+- Clone this repo to wp-content > plugins
+- Admin Dashboard > Plugins > Activate
 ```
